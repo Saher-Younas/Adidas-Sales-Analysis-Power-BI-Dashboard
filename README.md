@@ -5,7 +5,7 @@
 This **Power BI dashboard** offers an in-depth analysis of **Adidas sales performance** across several dimensions, allowing stakeholders to gain valuable insights into revenue trends, product performance, and regional sales distribution. The dashboard aims to support decision-making and business strategy by visualizing key data points in an accessible, interactive format.
 
 ## **Dashboard Interaction**
-- < a href="https://github.com/Saher-Younas/Adidas-Sales-Analysis-Power-BI-Dashboard/blob/main/Adidas_Sales%20Datasets.csv">Dataset</a>
+- [Dataset](https://github.com/Saher-Younas/Adidas-Sales-Analysis-Power-BI-Dashboard/blob/main/Adidas_Sales%20Datasets.csv)
 
 ## **Key Insights & Features**
 - **Total Sales:** $900M | **Operating Profit:** $332M | **Units Sold:** 2M
@@ -17,7 +17,8 @@ This **Power BI dashboard** offers an in-depth analysis of **Adidas sales perfor
 - **Retailer Performance:** Overview of the contribution of major retailers, such as **Foot Locker**, **Amazon**, **Walmart**, and others, to overall sales.
 
 ## ** Dashboard Interaction**
-- < a href="https://github.com/Saher-Younas/Adidas-Sales-Analysis-Power-BI-Dashboard/blob/main/Adidas_Sales_Analysis_Dashboard.JPG"> View Dashboard</a>
+- [View Dashboard](https://github.com/Saher-Younas/Adidas-Sales-Analysis-Power-BI-Dashboard/blob/main/Adidas_Sales_Analysis_Dashboard.JPG)
+
 
 ## **Visuals & Interactivity**
 - **Dynamic Filters:** Users can filter sales data by **Region** and **Invoice Date** to explore specific trends and insights.
